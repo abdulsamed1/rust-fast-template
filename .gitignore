@@ -1,0 +1,16 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Devcontainer / Editor
+.vscode/
+.devcontainer/.local
+.env
+
+# OS junk
+*Zone.Identifier
+Thumbs.db
+.DS_Store
+
+# Misc
+cargo-watch.lock
